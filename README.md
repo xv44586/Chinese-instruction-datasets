@@ -5,6 +5,7 @@
 | ---- | ---- | ----    | ---- | ---- |
 |firefly-train-1.1M| [Firefly](https://github.com/yangjianxin1/Firefly)| none | 23个常见中文数据集上由人工书写若干指令模板构造 | 110 万 |
 |pCLUE | [pCLUE](https://github.com/CLUEbenchmark/pCLUE) | none |单分类tnews/单分类iflytek/自然语言推理ocnli/语义匹配afqmc/指代消解-cluewsc2020/关键词识别-csl/阅读理解-自由式c3/阅读理解-抽取式cmrc2018/阅读理解-成语填空chid 共9个数据集，73个prompt 转换而来 | 120 万 |
+|xP3mt_zh | [xP3mt-zh](https://huggingface.co/datasets/bigscience/xP3mt/tree/main/zh) |apache-2.0 |原始xP3（英语）通过翻译得到的中文数据集 | 3571636 |
 
 # LLM 生成
 | name | link | license | tip | number |
