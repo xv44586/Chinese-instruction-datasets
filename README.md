@@ -1,5 +1,10 @@
 # 中文Instruction tuning datasets
 
+# 人工标注
+| name | link | license | tip | number |
+| ---- | ---- | ----    | ---- | ---- |
+|OL-CC | [OL-CC](https://data.baai.ac.cn/details/OL-CC) | Apache 2.0 |以众包方式、人工生成的开源中文对话指令集,包含 10k+ “指令-回答”数据对和 1.6k+ 人工指令数据。指令类型丰富，包括问答任务、文本写作、文本抽取、编辑改写、分类选择、头脑风暴、 闲聊对话、逻辑&数学等任务。|11.6K |
+
 # NLP 任务数据转换
 | name | link | license | tip | number |
 | ---- | ---- | ----    | ---- | ---- |
