@@ -15,6 +15,7 @@
 # LLM 生成
 | name | link | license | tip | number |
 | ---- | ---- | ----    | ---- | ---- |
+|alpaca_data_zh_51k | [Chinese-LLaMA-Alpaca-data](https://github.com/ymcui/Chinese-LLaMA-Alpaca/blob/main/data/alpaca_data_zh_51k.json) | Apache 2.0 | 中文Alpaca数据，包含51k个从ChatGPT (gpt-3.5-turbo)爬取的指令数据。| 51k |
 |Belle | [BELLE](https://github.com/LianjiaTech/BELLE) | gpl-3.0 | 参考[Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) 生成的中文数据集 | 50万/100万/200万/1000万 |
 |alpaca_chinese_dataset | [alpaca_chinese_dataset](https://github.com/hikariming/alpaca_chinese_dataset) | MIT | 人工校验了21K 左右的[alpaca](https://github.com/carbonz0/alpaca-chinese-dataset) 翻译数据集,并增加了许多中文特色数据集 | > 21 K |
 |COIG | [COIG](https://github.com/BAAI-Zlab/COIG) | Apache 2.0/MIT/CC-BY-SA-4.0 | <li> 67798个指令数据集（1616 个来着[Super-NaturalInstructions](https://arxiv.org/abs/2204.07705)的任务表述 + 175 个[self-instruct](https://arxiv.org/abs/2212.10560)中的种子任务 + 66007 个来自[Unnatural Instructions](https://arxiv.org/abs/2212.09689)）的翻译 <li> 63532 个考试（高考/中考/公务员考试）数据集 <li> Human Value Alignment Instructions (34,471) <li>Counterfactural Correction Multi-round Chat (13,653) <li> Leetcode Instructions (11,737)| 191,191|
