@@ -1,5 +1,14 @@
 # 中文Instruction tuning datasets
 
+# 偏好数据
+| name | link | license | tip | number |
+| --- | --- | --- | --- | --- |
+|zhihu_rlhf_3k|[zhihu_rlhf_3k](https://huggingface.co/datasets/liyucheng/zhihu_rlhf_3k) | cc-by-2.0 | 3k+条基于知乎问答的人类偏好数据集，每个问题下给出了一对不同赞数的回答 | 3k |
+|chatbot_arena_conversations | [chatbot_arena_conversations](https://huggingface.co/datasets/lmsys/chatbot_arena_conversations) | cc | This dataset contains 33K cleaned conversations with pairwise human preferences. It is collected from 13K unique IP addresses on the Chatbot Arena from April to June 2023. Each sample includes a question ID, two model names, their full conversation text in OpenAI API JSON format, the user vote, the anonymized user ID, the detected language tag, the OpenAI moderation API tag, the additional toxic tag, and the timestamp | 33k |
+
+
+
+
 # 人工标注
 | name | link | license | tip | number |
 | ---- | ---- | ----    | ---- | ---- |
