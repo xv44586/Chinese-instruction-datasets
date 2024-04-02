@@ -14,6 +14,7 @@
 | name | link | license | tip | number |
 | ---- | ---- | ----    | ---- | ---- |
 |OL-CC | [OL-CC](https://data.baai.ac.cn/details/OL-CC) | Apache 2.0 |以众包方式、人工生成的开源中文对话指令集,包含 10k+ “指令-回答”数据对和 1.6k+ 人工指令数据。指令类型丰富，包括问答任务、文本写作、文本抽取、编辑改写、分类选择、头脑风暴、 闲聊对话、逻辑&数学等任务。|11.6K |
+|COIG-CQIA | [COIG-CQIA](https://huggingface.co/datasets/m-a-p/COIG-CQIA) | |Chinese Open Instruction Generalist - Quality is All You Need， 是一个开源的高质量指令微调数据集，旨在为中文NLP社区提供高质量且符合人类交互行为的指令微调数据。COIG-CQIA以中文互联网获取到的问答及文章作为原始数据，经过深度清洗、重构及人工审核构建而成。|46K |
 
 # NLP 任务数据转换
 | name | link | license | tip | number |
